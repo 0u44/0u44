@@ -5,7 +5,7 @@
 ```
 Hai!! I'm a silly computer developer, some would say i'm smart but ehhhh(I got the IQ of a snail on fiber glass)
 I Specialize in Research & Development when it comes to computer engineering and full-stack development.
-----------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
 ⢀⢀⢀⢀⢀⢸⣿⣿⣿⣿⣷⣶⣶⣶⣶⣶⣶⣤⣄⣀⣀⣀⣀⣀⡀⢀⢀⢀
 ⢀⢀⢀⢀⢀⠸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⢀⢀⢀
 ⢀⢀⢀⢀⢀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠁⢀⢀⢀
