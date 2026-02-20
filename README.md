@@ -4,8 +4,7 @@
 
 ```
 Hai!! I'm a silly computer developer, some would say i'm smart but ehhhh(I got the IQ of a snail on fiber glass)
-I Specialize in Research & Development when it comes to computer engineering and low level development.
-I sometimes stray away from my roots and do other stacks
+I Specialize in Research & Development when it comes to computer engineering and full-stack development.
 ----------------------------------------------------------
 ⢀⢀⢀⢀⢀⢸⣿⣿⣿⣿⣷⣶⣶⣶⣶⣶⣶⣤⣄⣀⣀⣀⣀⣀⡀⢀⢀⢀
 ⢀⢀⢀⢀⢀⠸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⢀⢀⢀
@@ -20,7 +19,6 @@ I sometimes stray away from my roots and do other stacks
 ⢀⢀⢀⢀⢀⠈⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⢀⢀⢀⢀⢀⢀⢀
 ⢀⢀⢀⢀⢀⢀⢀⢀ Java Is Bad⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀
 ---------------------------------------
-Don't judge me off of the repos I upload here, they are nothing like my closed source projects.
 ```
 
  <img src="https://img.shields.io/github/stars/0u44?label=Stars" alt="total amount of stars">
