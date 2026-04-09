@@ -2,10 +2,17 @@
             
 2025 <img src="https://komarev.com/ghpvc/?username=CPScript&style=flat-square&color=blue" alt="added to profile on 11/23"/> | <img src="https://komarev.com/ghpvc/?username=0c44&style=flat-square&color=blue" alt="added to profile on 11/25"/> 2026
 
-Consider yourself lucky
+---
+
+(Developer Larping Image here)
+
+<img width="638" height="639" alt="image" src="https://github.com/user-attachments/assets/91b946b5-f22d-4d2b-87f2-d66d3c39843c" />
 
 ---
 
+</div>
+
+<div align="center">
 <details closed>
 <summary>Stats</summary>
 <br>
