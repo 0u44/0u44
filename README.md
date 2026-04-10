@@ -4,22 +4,7 @@
 
 ---
 
-(Developer Larping Image here)
-
-<img width="713" height="716" alt="image" src="https://github.com/user-attachments/assets/099b53e6-69da-45ee-ad3b-13c1fcbe747c" />
-
----
-
-</div>
-
-<div align="center">
-<details closed>
-<summary>Stats</summary>
-<br>
-            
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=0u44&theme=hacker&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-<img src="https://stats4github.vercel.app/api/top-langs/?username=0u44&langs_count=11&hide=html&layout=compact&exclude_repo=Viruses,terminal,Joker,Rosehip-android"> <br/> <table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://perfectlytolerable.wordpress.com/wp-content/uploads/2018/04/black-cat-gif-downsized_large-4.gif" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/0u44/prev"></a><a href="https://octo-ring.com/p/0u44/random"></a><a href="https://octo-ring.com/p/0u44/next"></a><br><a href="https://octo-ring.com/"></a></td></tr></tbody></table>
+<table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://perfectlytolerable.wordpress.com/wp-content/uploads/2018/04/black-cat-gif-downsized_large-4.gif" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/0u44/prev"></a><a href="https://octo-ring.com/p/0u44/random"></a><a href="https://octo-ring.com/p/0u44/next"></a><br><a href="https://octo-ring.com/"></a></td></tr></tbody></table>
 
 </details>
 
