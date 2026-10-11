@@ -1,3 +1,4 @@
-meow\
-**2 Busy** with work, no new projects soon :3\
-Have a guud night x3
+***Shoot for the moon,***\
+***Even if you miss you'll end up among the stars.***
+
+Every chance **you** don't take is a missed opportunity.
